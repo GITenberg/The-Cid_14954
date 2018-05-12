@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Pierre_Corneille
     - http://fr.wikipedia.org/wiki/Pierre_Corneille
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14954#The-Cid
 gutenberg_issued: '2005-02-07'
 gutenberg_type: Text
 identifiers:
